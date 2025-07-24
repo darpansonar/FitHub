@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-Available at: `https://your-app-url.web.app/`  
-*(Replace with your deployed link)*
-
----
-
 ## 💡 Features
 
 - 🔍 **Find Nearby Gyms**: Detects user location and opens Google Maps to show gyms close to you.
