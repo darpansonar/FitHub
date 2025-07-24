@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Paradise Gym",
+    "address": "123 Fitness Ave, Fitness City",
+    "distance": 0.8,
+    "rating": 4.7,
+    "image": "/images/gym1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Powerhouse Fitness",
+    "address": "456 Muscle St, Workout Town",
+    "distance": 1.5,
+    "rating": 4.5,
+    "image": "/images/gym2.jpg"
+  }
+]

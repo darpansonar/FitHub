@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bench Press",
+    "muscleGroup": "chest",
+    "image": "/exercises/chest/bench-press.jpg",
+    "description": "Lie on a bench and press weight upward using chest muscles",
+    "equipment": "Barbell, Bench"
+  },
+  {
+    "id": 2,
+    "name": "Squat",
+    "muscleGroup": "legs",
+    "image": "/exercises/legs/squat.jpg",
+    "description": "Lower your body by bending knees and hips, then stand back up",
+    "equipment": "Barbell"
+  },
+  {
+    "id": 3,
+    "name": "Bicep Curl",
+    "muscleGroup": "biceps",
+    "image": "/exercises/biceps/bicep-curl.jpg",
+    "description": "Curl weight upward by bending elbows",
+    "equipment": "Dumbbells"
+  }
+]
